@@ -4,7 +4,7 @@ Projeto de **machine learning para séries temporais**: prever a temperatura mé
 
 **Ferramentas:** Python · pandas · scikit-learn · XGBoost · matplotlib · seaborn · Jupyter
 
-> **Origem dos dados e crédito:** projeto prático desenvolvido a partir do vídeo "Como Criar um Modelo de Previsão com Machine Learning (Do Zero)" ([LINK DO VÍDEO]), do canal Eficiência Programada. Os dados são [DESCREVA A FONTE: órgão, estação e link, ou o material do vídeo] e foram pré-processados (variáveis de sazonalidade e janelas móveis). Licença/permissão de uso: [CONFIRMAR NA FONTE].
+> **Origem dos dados e crédito:** projeto prático desenvolvido a partir do vídeo "Como Criar um Modelo de Previsão com Machine Learning (Do Zero)", do canal Eficiência Programada.
 
 ---
 
